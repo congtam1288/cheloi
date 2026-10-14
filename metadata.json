@@ -1,0 +1,6 @@
+{
+  "name": "AI Viết Lời",
+  "description": "Sáng tác lời mới theo giai điệu, khớp nhịp và âm điệu bằng AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

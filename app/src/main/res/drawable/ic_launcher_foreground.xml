@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered bold music eighth-note symbol within 66dp safe zone (21dp to 87dp) -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,28c-0.5,0 -1,0.4 -1,1v29.5c-2.4,-1.5 -5.5,-2.2 -8.5,-1.8c-6.1,0.8 -10.5,5.6 -9.9,10.8c0.6,5.2 6.1,8.8 12.2,8c5.4,-0.7 9.4,-4.6 9.4,-9.3L56.2,40.4L73,36.5v16.3c-2.4,-1.5 -5.5,-2.2 -8.5,-1.8c-6.1,0.8 -10.5,5.6 -9.9,10.8c0.6,5.2 6.1,8.8 12.2,8c5.4,-0.7 9.4,-4.6 9.4,-9.3V31c0,-1.6 -1.2,-2.9 -2.8,-3.2l-18,-3.8C54.9,28 54.4,28 54,28z" />
+    <!-- Sound wave accents -->
+    <path
+        android:fillColor="#B0E0FF"
+        android:pathData="M27,48c-1.1,0 -2,0.9 -2,2v8c0,1.1 0.9,2 2,2s2,-0.9 2,-2v-8C29,48.9 28.1,48 27,48z" />
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M81,46c-1.1,0 -2,0.9 -2,2v12c0,1.1 0.9,2 2,2s2,-0.9 2,-2V48C83,46.9 82.1,46 81,46z" />
+</vector>
